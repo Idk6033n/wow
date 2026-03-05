@@ -1,0 +1,330 @@
+{
+  "StorefrontType": 2,
+  "NextUpdate": "2050-02-16T11:04:54.4129449-07:00",
+  "StoreItems": [
+    {
+      "PurchasableItemId": 0,
+      "Type": 0,
+      "IsFeatured": false,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 85
+        }
+      ],
+      "GiftDrops": [
+        {
+          "GiftDropId": 0,
+          "FriendlyName": "Cheese Pizza",
+          "Tooltip": "",
+          "AvatarItemDesc": "",
+          "ConsumableItemDesc": "5hIAZ9wg5EyG1cILf4FS2A",
+          "EquipmentPrefabName": "",
+          "EquipmentModificationGuid": "",
+          "Rarity": 20,
+          "IsQuery": false,
+          "Unique": false,
+          "Level": 0,
+          "Context": 100010
+        }
+      ]
+    },
+    {
+      "PurchasableItemId": 1,
+      "Type": 0,
+      "IsFeatured": false,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 90
+        }
+      ],
+      "GiftDrops": [
+        {
+          "GiftDropId": 1,
+          "FriendlyName": "Pepperoni Pizza",
+          "Tooltip": "",
+          "AvatarItemDesc": "",
+          "ConsumableItemDesc": "mq23W-RSP0G8iGNLdrcpUw",
+          "EquipmentPrefabName": "",
+          "EquipmentModificationGuid": "",
+          "Rarity": 0,
+          "IsQuery": false,
+          "Unique": false,
+          "Level": 0,
+          "Context": 100010
+        }
+      ]
+    },
+    {
+      "PurchasableItemId": 2,
+      "Type": 0,
+      "IsFeatured": false,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 95
+        }
+      ],
+      "GiftDrops": [
+        {
+          "GiftDropId": 2,
+          "FriendlyName": "Supreme Pizza",
+          "Tooltip": "",
+          "AvatarItemDesc": "",
+          "ConsumableItemDesc": "wUCIKdJSvEmiQHYMyx4X4w",
+          "EquipmentPrefabName": "",
+          "EquipmentModificationGuid": "",
+          "Rarity": 50,
+          "IsQuery": false,
+          "Unique": false,
+          "Level": 0,
+          "Context": 100010
+        }
+      ]
+    },
+    {
+      "PurchasableItemId": 0,
+      "Type": 0,
+      "IsFeatured": false,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 50
+        }
+      ],
+      "GiftDrops": [
+        {
+          "GiftDropId": 0,
+          "FriendlyName": "Root Beer",
+          "Tooltip": "",
+          "AvatarItemDesc": "",
+          "ConsumableItemDesc": "WAj42DQ4S0agM08vvsN7ZA",
+          "EquipmentPrefabName": "",
+          "EquipmentModificationGuid": "",
+          "Rarity": 0,
+          "IsQuery": false,
+          "Unique": false,
+          "Level": 0,
+          "Context": 100010
+        }
+      ]
+    },
+    {
+      "PurchasableItemId": 4,
+      "Type": 0,
+      "IsFeatured": false,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 90
+        }
+      ],
+      "GiftDrops": [
+        {
+          "GiftDropId": 4,
+          "FriendlyName": "Glazed Donuts",
+          "Tooltip": "",
+          "AvatarItemDesc": "",
+          "ConsumableItemDesc": "7OZ5AE3uuUyqa0P-2W1ptg",
+          "EquipmentPrefabName": "",
+          "EquipmentModificationGuid": "",
+          "Rarity": 0,
+          "IsQuery": false,
+          "Unique": false,
+          "Level": 0,
+          "Context": 100010
+        }
+      ]
+    },
+    {
+      "PurchasableItemId": 5,
+      "Type": 0,
+      "IsFeatured": false,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 75
+        }
+      ],
+      "GiftDrops": [
+        {
+          "GiftDropId": 5,
+          "FriendlyName": "Salted Pretzels",
+          "Tooltip": "",
+          "AvatarItemDesc": "",
+          "ConsumableItemDesc": "InQ25wQMGkG_bvuD5rf2Ag",
+          "EquipmentPrefabName": "",
+          "EquipmentModificationGuid": "",
+          "Rarity": 0,
+          "IsQuery": false,
+          "Unique": false,
+          "Level": 0,
+          "Context": 100010
+        }
+      ]
+    },
+    {
+      "PurchasableItemId": 0,
+      "Type": 0,
+      "IsFeatured": false,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 0
+        }
+      ],
+      "GiftDrops": [
+        {
+          "GiftDropId": 0,
+          "FriendlyName": "",
+          "Tooltip": "",
+          "AvatarItemDesc": "",
+          "ConsumableItemDesc": "",
+          "EquipmentPrefabName": "",
+          "EquipmentModificationGuid": "",
+          "Rarity": 50,
+          "IsQuery": false,
+          "Unique": false,
+          "Level": 0,
+          "Context": 100010
+        }
+      ]
+    },
+    {
+      "PurchasableItemId": 1,
+      "Type": 0,
+      "IsFeatured": false,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 0
+        }
+      ],
+      "GiftDrops": [
+        {
+          "GiftDropId": 1,
+          "FriendlyName": "",
+          "Tooltip": "",
+          "AvatarItemDesc": "",
+          "ConsumableItemDesc": "",
+          "EquipmentPrefabName": "",
+          "EquipmentModificationGuid": "",
+          "Rarity": 30,
+          "IsQuery": false,
+          "Unique": false,
+          "Level": 0,
+          "Context": 100010
+        }
+      ]
+    },
+    {
+      "PurchasableItemId": 2,
+      "Type": 0,
+      "IsFeatured": false,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 0
+        }
+      ],
+      "GiftDrops": [
+        {
+          "GiftDropId": 2,
+          "FriendlyName": "",
+          "Tooltip": "",
+          "AvatarItemDesc": "",
+          "ConsumableItemDesc": "",
+          "EquipmentPrefabName": "",
+          "EquipmentModificationGuid": "",
+          "Rarity": 50,
+          "IsQuery": false,
+          "Unique": false,
+          "Level": 0,
+          "Context": 100010
+        }
+      ]
+    },
+    {
+      "PurchasableItemId": 0,
+      "Type": 0,
+      "IsFeatured": false,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 0
+        }
+      ],
+      "GiftDrops": [
+        {
+          "GiftDropId": 0,
+          "FriendlyName": "",
+          "Tooltip": "",
+          "AvatarItemDesc": "",
+          "ConsumableItemDesc": "",
+          "EquipmentPrefabName": "",
+          "EquipmentModificationGuid": "",
+          "Rarity": 0,
+          "IsQuery": false,
+          "Unique": false,
+          "Level": 0,
+          "Context": 100010
+        }
+      ]
+    },
+    {
+      "PurchasableItemId": 4,
+      "Type": 0,
+      "IsFeatured": false,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 0
+        }
+      ],
+      "GiftDrops": [
+        {
+          "GiftDropId": 4,
+          "FriendlyName": "",
+          "Tooltip": "",
+          "AvatarItemDesc": "",
+          "ConsumableItemDesc": "",
+          "EquipmentPrefabName": "",
+          "EquipmentModificationGuid": "",
+          "Rarity": 0,
+          "IsQuery": false,
+          "Unique": false,
+          "Level": 0,
+          "Context": 100010
+        }
+      ]
+    },
+    {
+      "PurchasableItemId": 5,
+      "Type": 0,
+      "IsFeatured": false,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 0
+        }
+      ],
+      "GiftDrops": [
+        {
+          "GiftDropId": 5,
+          "FriendlyName": "",
+          "Tooltip": "",
+          "AvatarItemDesc": "",
+          "ConsumableItemDesc": "",
+          "EquipmentPrefabName": "",
+          "EquipmentModificationGuid": "",
+          "Rarity": 0,
+          "IsQuery": false,
+          "Unique": false,
+          "Level": 0,
+          "Context": 100010
+        }
+      ]
+    }
+  ]
+}
